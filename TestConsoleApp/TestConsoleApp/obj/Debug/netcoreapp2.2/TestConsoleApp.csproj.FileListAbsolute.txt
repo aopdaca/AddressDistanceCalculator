@@ -1,0 +1,11 @@
+C:\Users\h2oan\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.2\TestConsoleApp.deps.json
+C:\Users\h2oan\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.2\TestConsoleApp.runtimeconfig.json
+C:\Users\h2oan\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.2\TestConsoleApp.runtimeconfig.dev.json
+C:\Users\h2oan\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.2\TestConsoleApp.dll
+C:\Users\h2oan\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp2.2\TestConsoleApp.pdb
+C:\Users\h2oan\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.2\TestConsoleApp.csprojAssemblyReference.cache
+C:\Users\h2oan\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.2\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\h2oan\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.2\TestConsoleApp.AssemblyInfoInputs.cache
+C:\Users\h2oan\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.2\TestConsoleApp.AssemblyInfo.cs
+C:\Users\h2oan\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.2\TestConsoleApp.dll
+C:\Users\h2oan\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp2.2\TestConsoleApp.pdb
